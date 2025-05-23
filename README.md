@@ -2,9 +2,8 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - 
-  - [Active directory Home lab ](https://github.com/tyresentate/LABURL)
-  - [Hello World!](https://github.com/tyresentate/LABURL)
--
+  - [Capstone project ](https://github.com/Tyresentate/adp3rb10capstone25)
+  
 <h2>📄 Certifications </h2>
 <p>Higher Certificate in ICT</p>
 <p>Google IT support</p>
